@@ -1,10 +1,10 @@
 # [Pixelserv](http://proxytunnel.sourceforge.net/pixelserv.php) implementation written in Node.js
 
-## Why?
+### Why?
 
 I wanted to play with Node.js and to be honest - I thought this would be harder to do ;)
 
-## What is Pixelserv?
+### What is Pixelserv?
 
 From the Pixelserv website:
 
