@@ -8,4 +8,4 @@ I wanted to play with Node.js and to be honest - I thought this would be harder 
 
 From the Pixelserv website:
 
-> Pixelserv is a super minimal webserver, it's one and only purpose is serving a 1x1 pixel transparent gif file. Using some creative firewalling (netfilter/iptables) rules you can redirect some webrequests (for adds for example) to pixelserv.
+> Pixelserv is a super minimal webserver, it's one and only purpose is serving a 1x1 pixel transparent gif file. Using some creative firewalling (netfilter/iptables) rules you can redirect some webrequests (advertisements, for example) to pixelserv.
