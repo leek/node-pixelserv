@@ -1,4 +1,4 @@
-## [Pixelserv](http://proxytunnel.sourceforge.net/pixelserv.php) implementation written in Node.js
+# [Pixelserv](http://proxytunnel.sourceforge.net/pixelserv.php) implementation written in Node.js
 
 ### Why?
 
